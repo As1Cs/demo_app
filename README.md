@@ -1,4 +1,4 @@
 # Ruby on Rails Tutorial: второе приложение
 
-Это первое приложение для
+Это второе приложение для
 [*Ruby on Rails demo_app] Tutorial*](http://railstutorial.org/)
